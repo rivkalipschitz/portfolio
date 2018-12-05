@@ -1,0 +1,197 @@
+
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/*navigation styles*/
+
+/* .logo img {
+    width: 10%;
+    display: inline-block;
+    float: left;
+    padding: auto 20;
+} */
+
+body {
+    margin: 0;
+}
+
+.navigation {
+    background: #7BCED3;
+    overflow: auto;
+    padding: 10px;
+    margin: 0px;
+    margin: 0;
+}
+  
+  .nav-logo {
+    float: left;
+    padding: 10px;
+    width: 250px;
+}
+  
+  .nav-logo img {
+    width: 150%;
+}
+  
+  .nav-items ul {
+    float: right;
+    margin-top: 25px;
+  }
+  
+  .nav-items ul {
+    padding: 0;
+}
+  
+  .nav-items ul li {
+    display: inline-block;
+    margin: 0 5px 0 5px;
+}
+  
+  .nav-items ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+  
+  .nav-items ul li a:hover {
+    color: #CC487A
+}
+  /* nav item end */
+
+  /* start info */
+
+h1{
+    color: #1BAAA6;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+p{
+    margin-top: 10px;
+    margin: 0;
+    padding: 0;
+    order: 0;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+p,
+li{
+    font-size: 14px;
+}
+
+ul{
+    padding-left: 20px;
+    margin: 5px;
+    margin-bottom: 20px;
+    list-style-image: url(assets/images/images/Untitled-6.svg);
+}
+
+#aboutMe{
+    padding-left: 25px;
+    padding-right: 25px;
+    float: left;
+    box-sizing: content-box;
+    width: 260px;
+    font-size: 14px;
+    margin-left: 10px; 
+    clear: left;
+}
+
+#contact{
+    padding-left: 25px;
+    float: left;
+    box-sizing: content-box;
+    width: 290px;
+    clear: left;
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+#skills{
+    padding-left: 25px;
+    float: left;
+    box-sizing: content-box;
+    width: 290px;
+    clear: left;
+    font-size: 14px;
+    margin-left: 10px; 
+}
+
+/* why isn't this working? */
+#section-left{
+   Width: 35%;
+}
+
+  .container{
+    background-color: #EDEDED;
+    margin-top: 10px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+  .hello{
+      margin-bottom: 20px;
+  }
+
+  .bulk{
+    margin-left: 340px;
+}
+
+  .me img{
+    width: 320px;
+    float: left;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+  .social-icons{
+    margin-top: 10px;
+}
+
+/* end info */
+
+/* table start */
+
+table {
+    border-spacing: 0.1rem 0.2rem;
+}
+
+  th{
+    width: 30px;
+    /* text-align: left; */
+    font-weight: normal;
+    font-size: 14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+  td{
+    background-color: #7BCED3;
+}
+
+ .orange{
+    color: rgb(180, 48, 99);
+    display: inline-block;
+    padding: 1px;
+}
+
+ .gray{
+    background-color: #DBDBDB;
+}
+
+ .left{
+    text-align: right;
+    padding-right: 10px;
+}
+
+/* end table */
