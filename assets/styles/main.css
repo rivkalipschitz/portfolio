@@ -47,6 +47,7 @@
 .nav-items ul li a {
   color: #ffffff;
   text-decoration: none;
+  font-size: 14px;
 }
 
 .nav-items ul li a:hover {
@@ -61,7 +62,7 @@
   background: url('../images/workspace.jpg');
   background-size: cover;
   background-position: center;
-  height: 80vh;
+  height: 83vh;
   position: relative;
   text-align: center;
 }
@@ -71,7 +72,7 @@
   color: #ffffff;
   display: block;
   margin: auto;
-  max-height: 220px;
+  max-height: 120px;
   max-width: 500px;
   padding: 40px;
   text-align: center;
@@ -90,6 +91,10 @@ bottom: 40px;
 
 
 /* portfolio */
+
+h2 {
+  font-size: 16px;
+}
 
 .portfolio {
   padding: 40px 0;
