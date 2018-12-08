@@ -128,3 +128,32 @@ img {
     grid-area: g;
 }
 
+.eight{
+    max-width: 49%;
+    max-height:49%;
+    grid-area: h;
+}
+
+.nine{
+    max-width: 49%;
+    max-height: 49%;
+    grid-area: i;
+}
+
+.ten{
+    max-width: 49%;
+    max-height:49%;
+    grid-area: j;
+}
+
+.eleven{
+    max-width: 49%;
+    max-height:49%;
+    grid-area: k;
+}
+
+.twelve{
+    max-width: 49%;
+    max-height:49%;
+    grid-area: l;
+}
