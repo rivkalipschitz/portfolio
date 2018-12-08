@@ -79,8 +79,16 @@ body {
       margin-right: 10%;   
 }
 
-.photoPage{
-    margin-bottom: 220;
+#postmargins{
+    margin-bottom: 60px;
+}
+
+#postermargins{
+    margin-bottom: 120px;
+}
+
+#photomargins {
+    margin-bottom: 220px;
 }
 
 img {
