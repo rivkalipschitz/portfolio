@@ -15,7 +15,7 @@
 /*navigation styles*/
 
 .navigation {
-  background: #C5DB65;
+  background: #7BCED3;
   overflow: auto;
   padding: 10px
 }
@@ -51,7 +51,7 @@
 }
 
 .nav-items ul li a:hover {
-  color: #CC487A
+  color:  #CC487A;
 }
 
 
@@ -59,7 +59,6 @@
 /* header */
 
 .header {
-  /* background: url('../images/workspace.jpg'); */
   background: url('../images/images/images/backgroung.gif');
   background-size: cover;
   background-position: center;
@@ -157,7 +156,8 @@ h2 {
 
 .about {
   padding: 80px 0;
-  background: #aaa5d6;
+  /* background: #aaa5d6; */
+  background:  rgb(183, 216, 218);
 }
 
 .profile-image-cont {

@@ -17,7 +17,7 @@ body {
 }
 
 .navigation {
-    background: #C5DB65;
+    background: #7BCED3;
     overflow: auto;
     padding: 10px;
     margin: 0px;
@@ -55,14 +55,14 @@ body {
 }
   
   .nav-items ul li a:hover {
-    color: #CC487A;
+    color:  #CC487A;
 }
   /* nav item end */
 
   /* start info */
 
 h1{
-    color: rgb(165, 189, 60);
+    color: rgb(95, 184, 189);
     font-size: 16px;
     margin-bottom: 15px;
 }
@@ -177,7 +177,7 @@ table {
 }
 
   td{
-    background-color: #C5DB65;
+    background-color: #7BCED3;
 }
 
  .orange{

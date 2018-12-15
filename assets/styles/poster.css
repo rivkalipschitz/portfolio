@@ -9,7 +9,7 @@ h1{
 
 h2{
  font-size: 16px;
- color: #C5DB65;
+ color: #7BCED3;
 }
 
 p{
@@ -20,7 +20,7 @@ body {
     margin: 0;
 }
 .navigation {
-    background: #C5DB65;
+    background: #7BCED3;
     overflow: auto;
     padding: 10px;
     margin: 0px;
