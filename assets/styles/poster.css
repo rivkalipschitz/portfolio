@@ -75,8 +75,8 @@ body {
 .container{
   display: grid;
   grid-gap: 3%;
-  /* grid-template-columns: repeat (auto-fit, minmax 100px, 1fr); */
-  /* grid-template-rows: 20px auto 20px; */
+  grid-template-columns: repeat (auto, minmax(100px), 1fr);
+  grid-template-rows: 20px auto 20px;
   grid-template-areas: 
       "a a a a b b b b c c c c"
       "a a a a b b b b c c c c"
@@ -86,8 +86,6 @@ body {
       "g g g g h h h h i i i i"
       "j j j j k k k k l l l l"
       "j j j j k k k k l l l l";
-      /* justify-content: space-between;
-      justify-items: start; */
       padding-bottom: 40px;
       margin-bottom: 40px;
       margin-right: 10%;   
@@ -105,9 +103,7 @@ body {
     margin-bottom: 220px;
 }
 
-img {
-    object-fit: scale-down;
-}
+
 
 .contents{
     margin-left: 10%;
